@@ -1,0 +1,15 @@
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\BUS.dll.config
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\BUS.dll
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\BUS.pdb
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\DAL.dll
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\EntityFramework.dll
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\DAL.pdb
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\DAL.dll.config
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\EntityFramework.xml
+D:\2280601122_BuiAnhHuy\De02\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\2280601122_BuiAnhHuy\De02\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\2280601122_BuiAnhHuy\De02\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\2280601122_BuiAnhHuy\De02\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\2280601122_BuiAnhHuy\De02\BUS\obj\Debug\BUS.dll
+D:\2280601122_BuiAnhHuy\De02\BUS\obj\Debug\BUS.pdb
